@@ -4,4 +4,4 @@
 Test repository
 
 
-[![Slack](https://brandfolder.com/s/p5hpn8-bq6gag-e14k7w)](https://slack.com/signin)
+[![Slack](https://imgur.com/a/q4TXD)](https://slack.com/signin)
