@@ -1,1 +1,1 @@
-test template
+regular issue template
