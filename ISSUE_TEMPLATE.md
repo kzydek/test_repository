@@ -1,1 +1,2 @@
-regular issue template
+default issue template
+add test ingo
