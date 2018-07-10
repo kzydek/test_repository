@@ -1,2 +1,2 @@
 default issue template
-add test ingo
+add test info
