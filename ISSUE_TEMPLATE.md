@@ -1,1 +1,1 @@
-regular issue template
+default issue template
